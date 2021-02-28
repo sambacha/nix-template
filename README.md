@@ -1,5 +1,10 @@
 # Opinionated Nix repository template
 
+```bash
+wget https://github.com/sambacha/nix-template/archive/master.zip
+```
+
+
 Based on [nix.dev](https://nix.dev) tutorials, repository template to get you started with [Nix](https://nixos.org/):
 
 - [niv](https://github.com/nmattia/niv) for painless dependency management (aka pinning) with a daily cronjob to bump dependencies
