@@ -1,4 +1,4 @@
-name: Update niv
+name: 'niv auto update'
 
 on:
   schedule:
