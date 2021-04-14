@@ -1,9 +1,12 @@
-# Opinionated Nix repository template
+# [Nix](#) 
+
+> Opinionated repository template
+
+[![Nix: Coverage](https://github.com/sambacha/nix-template/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/sambacha/nix-template/actions/workflows/test.yml) [![niv auto update](https://github.com/sambacha/nix-template/actions/workflows/update-niv.yml/badge.svg?branch=master)](https://github.com/sambacha/nix-template/actions/workflows/update-niv.yml)
 
 ```bash
 wget https://github.com/sambacha/nix-template/archive/master.zip
 ```
-
 
 Based on [nix.dev](https://nix.dev) tutorials, repository template to get you started with [Nix](https://nixos.org/):
 
